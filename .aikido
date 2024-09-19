@@ -4,4 +4,4 @@ ignore:
       reason: this is the reason
 exclude:
   paths:
-    - config
+    - bliepbloepbliep
