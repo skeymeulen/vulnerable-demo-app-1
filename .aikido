@@ -1,6 +1,6 @@
 ignore:
   cves:
-    '123':
+    'CVE-2024-47874':
       reason: this is the reason
 exclude:
   paths:
