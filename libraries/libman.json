@@ -1,0 +1,73 @@
+{
+    "version": "3.0",
+    "libraries": [
+        {
+            "provider": "filesystem",
+            "library": "bootstrap-datepicker-1.4.1",
+            "destination": " ",
+            "files": []
+        },
+        {
+            "provider": "filesystem",
+            "library": "jquery 3.0.15",
+            "destination": " "
+        },
+        {
+            "provider": "filesystem",
+            "library": "moment-2.10.6",
+            "destination": " ",
+            "files": []
+        },
+        {
+            "provider": "filesystem",
+            "library": "bootstrap-ui-2.0.2",
+            "destination": " ",
+            "files": []
+        },
+    ],
+    "license": {
+        "Angular": {
+            "version": "1.7.2",
+            "licenseType": "MIT"
+        },
+        "bootstrap-datepicker-1.4.1": {
+            "version": "2.0.2",
+            "licenseType": "MIT"
+        },
+        "ui-bootstrap-tpls-1.1.1": {
+            "version": "2.0.2",
+            "licenseType": "MIT"
+        },
+        "DayPilot": {
+            "url": "https://www.daypilot.org/",
+            "copyright": "Copyright © DayPilot. All rights reserved.",
+            "licenseType": "Commercial"
+        },
+        "JQuery-3.1.1": {
+            "version": "3.1.1",
+            "licenseType": "MIT"
+        },
+        "JQuery-AutoSize": {
+            "version": "3.0.15",
+            "licenseType": "MIT"
+        },
+        "Moment-2.10.6": {
+            "version": "2.10.6",
+            "licenseType": "MIT"
+        },
+        "oidc": {
+            "version": "2.9.0",
+            "licenseType": "Apache-2.0"
+        },
+        "OpenTip": {
+            "version": "2.4.6",
+            "licenseType": "MIT"
+        },
+        "webdatarocks": {
+            "version": "1.1.0",
+            "url": "http://www.webdatarocks.com/",
+            "copyright": "Copyright 2019 WebDataRocks. All rights reserved.",
+            "licenseType": "Commercial"
+        }
+    }
+}
