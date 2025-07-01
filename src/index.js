@@ -20,6 +20,7 @@ app.get("/payments", (req, res) => {
 });
 
 app.use((err, req, res, next) => {
+  const password= "wJalrXUtnFEMIK7MDENGbPxRfiCY";
   console.error(err.stack);
   res.status(500).send("Something broke!", err);
 });
